@@ -1,0 +1,28 @@
+name: osborneweddings
+favicon: null
+layout_spectrum: 0.10741581348702312
+typography_spectrum: 0.7918735321145505
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8725895169191062
+  lightness: 0.04162280634045601
+  saturation: 0.595950314309448
+  rhythmicContrast: 0.7559936637990177
+purpose: []
